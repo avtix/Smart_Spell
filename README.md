@@ -1,5 +1,4 @@
 # Smart_Spell
-ASSIGNMENT 3
 Name       : Bhavya Anand
 
 
